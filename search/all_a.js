@@ -15,11 +15,11 @@ var searchData=
   ['hal_5fuart_5fmspinit_12',['HAL_UART_MspInit',['../stm32f3xx__hal__msp_8c.html#a0e553b32211877322f949b14801bbfa7',1,'stm32f3xx_hal_msp.c']]],
   ['hal_5fuart_5frxcpltcallback_13',['HAL_UART_RxCpltCallback',['../main_8c.html#ae494a9643f29b87d6d81e5264e60e57b',1,'main.c']]],
   ['hardfault_5fhandler_14',['HardFault_Handler',['../stm32f3xx__it_8h.html#a2bffc10d5bd4106753b7c30e86903bea',1,'HardFault_Handler(void):&#160;stm32f3xx_it.c'],['../stm32f3xx__it_8c.html#a2bffc10d5bd4106753b7c30e86903bea',1,'HardFault_Handler(void):&#160;stm32f3xx_it.c']]],
-  ['hclk_20hz_208000000_15',['HCLK(Hz)                               | 8000000',['../system__stm32f3xx_8c.html#hclkhz--------------------------------8000000',1,'']]],
+  ['hclk_20hz_208000000_15',['HCLK(Hz)                               | 8000000',['../system__stm32f3xx_8c.html#autotoc_md4',1,'']]],
   ['hse_5fstartup_5ftimeout_16',['HSE_STARTUP_TIMEOUT',['../stm32f3xx__hal__conf_8h.html#a68ecbc9b0a1a40a1ec9d18d5e9747c4f',1,'stm32f3xx_hal_conf.h']]],
   ['hse_5fvalue_17',['HSE_VALUE',['../stm32f3xx__hal__conf_8h.html#aeafcff4f57440c60e64812dddd13e7cb',1,'HSE_VALUE:&#160;stm32f3xx_hal_conf.h'],['../group___s_t_m32_f3xx___system___private___defines.html#gaeafcff4f57440c60e64812dddd13e7cb',1,'HSE_VALUE:&#160;system_stm32f3xx.c']]],
-  ['hsi_18',['System Clock source                    | HSI',['../system__stm32f3xx_8c.html#system-clock-source---------------------hsi',1,'']]],
+  ['hsi_18',['System Clock source                    | HSI',['../system__stm32f3xx_8c.html#autotoc_md2',1,'']]],
   ['hsi_5fstartup_5ftimeout_19',['HSI_STARTUP_TIMEOUT',['../stm32f3xx__hal__conf_8h.html#a83f109da654b670743786c6a45284b96',1,'stm32f3xx_hal_conf.h']]],
   ['hsi_5fvalue_20',['HSI_VALUE',['../stm32f3xx__hal__conf_8h.html#aaa8c76e274d0f6dd2cefb5d0b17fbc37',1,'HSI_VALUE:&#160;stm32f3xx_hal_conf.h'],['../group___s_t_m32_f3xx___system___private___defines.html#gaaa8c76e274d0f6dd2cefb5d0b17fbc37',1,'HSI_VALUE:&#160;system_stm32f3xx.c']]],
-  ['hz_208000000_21',['Hz 8000000',['../system__stm32f3xx_8c.html#hclkhz--------------------------------8000000',1,'HCLK(Hz)                               | 8000000'],['../system__stm32f3xx_8c.html#sysclkhz------------------------------8000000',1,'SYSCLK(Hz)                             | 8000000']]]
+  ['hz_208000000_21',['Hz 8000000',['../system__stm32f3xx_8c.html#autotoc_md4',1,'HCLK(Hz)                               | 8000000'],['../system__stm32f3xx_8c.html#autotoc_md3',1,'SYSCLK(Hz)                             | 8000000']]]
 ];
